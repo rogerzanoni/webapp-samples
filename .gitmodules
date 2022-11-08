@@ -1,0 +1,3 @@
+[submodule "hexgl"]
+	path = hexgl
+	url = git@github.com:BKcore/HexGL.git
