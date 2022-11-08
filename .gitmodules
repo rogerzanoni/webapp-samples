@@ -1,3 +1,6 @@
 [submodule "hexgl"]
 	path = hexgl
 	url = git@github.com:BKcore/HexGL.git
+[submodule "webglsamples"]
+	path = webglsamples
+	url = git@github.com:WebGLSamples/WebGLSamples.github.io.git
